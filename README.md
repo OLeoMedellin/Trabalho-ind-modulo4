@@ -1,4 +1,4 @@
-# Projeto do curso Resilia Modelagem de banco de dados**
+# Projeto do curso Resilia Modelagem de banco de dados
 
 O projeto consiste em construir um modelo de banco de dados para o curso Resilia...
 
